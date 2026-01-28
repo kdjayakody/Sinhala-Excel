@@ -1,0 +1,7 @@
+{
+  "name": "Sinhala Excel AI Builder",
+  "description": "Generate complex Excel spreadsheets just by speaking or typing in Sinhala.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
